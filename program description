@@ -1,0 +1,24 @@
+Program description:
+clusteringModeExpection: Calculate the actual distribution model after clustering, draw a histogram, symmetrical graphics, smoothing, and expectation
+computeExpectionBernoulli: Mathematical expectation when calculating Bernoulli distribution
+computeExpectionMinCurve: Mathematical expectation when calculating the actual distribution curve MinCurve
+computeExpectionUniform: Mathematical expectation when calculating uniform distribution
+computeExpectionVmodel: Mathematical expectation when computing theoretical V models
+createFit: curve fitting function
+curveFit: curve fitting based on actual clustering data
+DPClustering: DP clustering algorithm
+generateDistribution: draw three theoretical distribution graphs
+K_meanswm: k_means clustering algorithm
+lookupTableBernoulli: Calculate the lookup table when searching for Bernoulli distribution, find the number of red balls
+lookupTableMinCurve: Calculate the lookup table when the actual cluster distribution, find the number of red balls
+lookupTableUniform: Calculate the lookup table when searching for Uniform, find the number of red balls
+lookupTableVmodel: Calculate the lookup table when the theoretical V distribution, find the number of red balls
+lookupTableYanXue: In the Yan Xue code, use the java method to calculate the lookup table and find the number of red balls.
+manhattenDist: Calculate distance
+mainVmodelDPuse: algorithm main program, using DP clustering algorithm
+mainVmodelDPuse001: The main program of the algorithm, using the DP clustering algorithm, actually uses this, and the time is smaller.
+mainVmodelkmeansuse: algorithm main program, using kmeans clustering algorithm
+PlotExpectionDiffBlock: According to the calculation data, draw the red ball expectation when divided into different blocks
+testExpectionmodeluse: draw the desired graph under different distributions
+mainVmodelDPFunction: Calculate the V model learning average cost main function
+mianVmodelDPusedc: Test program, input different dc, output the average cost under different dc, find the minimum value.
