@@ -1,4 +1,4 @@
-# Vmodel
+# CATS
 
 Clustering-based active learning splits the data into a number of blocks and queries the labels of most the representative instances. 
 When the cost of labeling and misclassification are considered, we also face a key issue: How many labels should be queried for a given block. 
